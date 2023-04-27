@@ -1,2 +1,2 @@
-# animated-tabbar-example-flutter
-TabBarにアニメーションを追加する為のサンプルリポジトリ
+# flutter-animated-tabbar-sample
+TabBarにアニメーションを追加するサンプル
